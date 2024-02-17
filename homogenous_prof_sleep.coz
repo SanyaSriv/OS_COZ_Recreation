@@ -1,0 +1,306 @@
+startup	time=1708137444002151541
+runtime	time=33708742
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444071681519
+runtime	time=10254758
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444110255677
+runtime	time=10616473
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444149428720
+runtime	time=10092631
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=2
+startup	time=1708137444188095005
+runtime	time=12766259
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444226547619
+runtime	time=10821976
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444267579902
+runtime	time=10310384
+startup	time=1708137444305555675
+runtime	time=10072797
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444342999730
+runtime	time=10840518
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137444382569155
+runtime	time=10792101
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444424390994
+runtime	time=10072713
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444462030636
+runtime	time=10082380
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137444501860857
+runtime	time=10639515
+samples	location=/usr/include/c++/11/ostream:616	count=1
+startup	time=1708137444537588549
+runtime	time=10559139
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444577162683
+runtime	time=10072005
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444614852659
+runtime	time=10755309
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444653228064
+runtime	time=10072505
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444691689595
+runtime	time=10188340
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=1
+startup	time=1708137444732679711
+runtime	time=10072796
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137444772969189
+runtime	time=10072047
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137444813266960
+runtime	time=13273018
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444851825035
+runtime	time=11391444
+startup	time=1708137444892157806
+runtime	time=10073547
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137444929578694
+runtime	time=10532388
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137444966999666
+runtime	time=10577472
+samples	location=/usr/include/c++/11/bits/basic_string.h:921	count=1
+startup	time=1708137445004767810
+runtime	time=10070547
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137445039786449
+runtime	time=10075672
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445077732764
+runtime	time=32128215
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137445136536018
+runtime	time=10076630
+startup	time=1708137445174257286
+runtime	time=10608890
+startup	time=1708137445213497248
+runtime	time=10657807
+startup	time=1708137445252434329
+runtime	time=10078714
+startup	time=1708137445286904917
+runtime	time=10555681
+startup	time=1708137445327764865
+runtime	time=10077630
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=2
+startup	time=1708137445367949467
+runtime	time=10088839
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445404422715
+runtime	time=10076422
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=2
+startup	time=1708137445444086434
+runtime	time=10071172
+startup	time=1708137445482645009
+runtime	time=10725641
+startup	time=1708137445521514380
+runtime	time=10094214
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445560857010
+runtime	time=10069964
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445603233817
+runtime	time=10687224
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445642317817
+runtime	time=10776893
+samples	location=/usr/include/c++/11/bits/basic_string.h:6536	count=1
+startup	time=1708137445680529803
+runtime	time=10072422
+startup	time=1708137445717798022
+runtime	time=10702433
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/fstream:737	count=1
+startup	time=1708137445753775511
+runtime	time=10283593
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137445790651558
+runtime	time=10426719
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137445830777576
+runtime	time=10752642
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137445868528637
+runtime	time=10074338
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137445906516994
+runtime	time=10492137
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445944958066
+runtime	time=10584223
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137445984860748
+runtime	time=10072963
+startup	time=1708137446021027782
+runtime	time=10073255
+startup	time=1708137446060136991
+runtime	time=10077839
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137446101332237
+runtime	time=20674686
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=2
+startup	time=1708137446149921233
+runtime	time=10071214
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137446188359015
+runtime	time=10072714
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/locale_facets.h:878	count=1
+startup	time=1708137446229033876
+runtime	time=10072131
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=1
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137446267804580
+runtime	time=10073256
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=2
+startup	time=1708137446310013884
+runtime	time=10563972
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1194	count=1
+startup	time=1708137446350506784
+runtime	time=10784310
+samples	location=/usr/include/c++/11/bits/basic_string.h:191	count=1
+startup	time=1708137446392935217
+runtime	time=12481047
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137446435827867
+runtime	time=10032713
+startup	time=1708137446472709455
+runtime	time=10077172
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137446510570185
+runtime	time=11925245
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/ostream:616	count=1
+startup	time=1708137446550348656
+runtime	time=10505638
+startup	time=1708137446587587542
+runtime	time=10071047
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=2
+startup	time=1708137446626123700
+runtime	time=10577848
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137446664064515
+runtime	time=13541190
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137446703638524
+runtime	time=10090006
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137446742536230
+runtime	time=10798018
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137446782311493
+runtime	time=10635640
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137446821315493
+runtime	time=10074213
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137446856485177
+runtime	time=10714808
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137446896278065
+runtime	time=10071297
+startup	time=1708137446936420959
+runtime	time=10071255
+samples	location=/usr/include/c++/11/bits/basic_string.tcc:215	count=1
+startup	time=1708137446972876498
+runtime	time=10075255
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:357	count=1
+startup	time=1708137447011183694
+runtime	time=10808768
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137447051657344
+runtime	time=10072172
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447089747995
+runtime	time=10074339
+samples	location=/usr/include/c++/11/bits/basic_string.tcc:215	count=1
+startup	time=1708137447128562492
+runtime	time=20235346
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137447178394927
+runtime	time=10702100
+samples	location=/usr/include/c++/11/bits/basic_string.tcc:215	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=1
+startup	time=1708137447216959544
+runtime	time=10074214
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447254902235
+runtime	time=10760600
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137447297796343
+runtime	time=10073047
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137447335859452
+runtime	time=10071922
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447374809951
+runtime	time=10941478
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447412383385
+runtime	time=10158381
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=1
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137447452377193
+runtime	time=10072297
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447491524237
+runtime	time=10069631
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447528400367
+runtime	time=10071798
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447568860684
+runtime	time=10070922
+samples	location=/usr/include/c++/11/ostream:616	count=2
+startup	time=1708137447604251414
+runtime	time=10070464
+samples	location=/home/ubuntu/coz/benchmarks/toy/toy.cpp:15	count=1
+samples	location=/usr/include/c++/11/ostream:616	count=1
+startup	time=1708137447639814355
+runtime	time=10074214
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137447698129477
+runtime	time=10592972
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=2
+startup	time=1708137447739052218
+runtime	time=10768684
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447779506659
+runtime	time=10350094
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+startup	time=1708137447816178494
+runtime	time=10071297
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:431	count=1
+startup	time=1708137447853056666
+runtime	time=10138674
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+startup	time=1708137447892511632
+runtime	time=10090714
+samples	location=/usr/include/c++/11/bits/invoke.h:61	count=1
+samples	location=/usr/include/c++/11/bits/stl_uninitialized.h:1031	count=1
+startup	time=1708137447931907931
+runtime	time=10079172
+samples	location=/usr/include/c++/11/bits/basic_string.h:6573	count=1

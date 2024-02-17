@@ -1,0 +1,1589 @@
+startup	time=1708140019257606146
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=452637439	selected-samples=260
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69570
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.30	duration=498611074	selected-samples=6
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69174
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=379480350	selected-samples=245
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69225
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=351825703	selected-samples=254
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68707
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=308916324	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69364
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=232706290	selected-samples=286
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69199
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=368114038	selected-samples=273
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69118
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=302395641	selected-samples=287
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69194
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=431385379	selected-samples=278
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68206
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=412313436	selected-samples=114
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=29304
+runtime	time=5170289297
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=13
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=4
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:357	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=146
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=158
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2579
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=120
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=162
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=397
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=6
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=16
+startup	time=1708140024460175615
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=371643799	selected-samples=266
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66140
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=423594708	selected-samples=262
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67024
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=424767107	selected-samples=251
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68414
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=316560658	selected-samples=249
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69192
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500067862	selected-samples=275
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68032
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.60	duration=495092794	selected-samples=13
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67146
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.40	duration=496316463	selected-samples=16
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=65506
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502386846	selected-samples=272
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=65730
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.65	duration=360983332	selected-samples=214
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=55480
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.30	duration=493977792	selected-samples=33
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=55486
+runtime	time=5160572026
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=21
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=17
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=14
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=6
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=154
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=10
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=157
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2564
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=109
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=192
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=419
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=15
+samples	location=/usr/include/c++/11/bits/random.tcc:459	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=11
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=22
+startup	time=1708140029664634849
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.55	duration=483772119	selected-samples=38
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68795
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=393157350	selected-samples=244
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=57010
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.80	duration=473889536	selected-samples=39
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=46446
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.00	duration=500884795	selected-samples=12
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=57303
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.20	duration=491668307	selected-samples=42
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66248
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=311321792	selected-samples=238
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69216
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=313267073	selected-samples=237
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=56508
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=422555241	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69281
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=395715186	selected-samples=175
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=41935
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.60	duration=481617999	selected-samples=35
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70007
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.35	duration=492615506	selected-samples=28
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=45310
+runtime	time=5668844455
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=29
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=16
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=22
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:71	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=9
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=1
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=151
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=8
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=119
+samples	location=/usr/include/c++/11/bits/random.h:1870	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2618
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=42
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=122
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=209
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=417
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=9
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=43
+startup	time=1708140035405128908
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.85	duration=486293225	selected-samples=18
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67809
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=389375705	selected-samples=246
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68660
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.80	duration=473508528	selected-samples=39
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69323
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.65	duration=345677747	selected-samples=244
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68118
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.70	duration=471414580	selected-samples=47
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68761
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.00	duration=500067675	selected-samples=35
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68182
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.75	duration=492291435	selected-samples=14
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68719
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.60	duration=484024172	selected-samples=34
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67092
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=283791522	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67503
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=456691607	selected-samples=133
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=35838
+runtime	time=5156964657
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=15
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=12
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=160
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=9
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=158
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2503
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=106
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=7
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=208
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=428
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=17
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=18
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=6
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=11
+startup	time=1708140040627803239
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.25	duration=491110694	selected-samples=48
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69165
+experiment	selected=/usr/include/c++/11/bits/random.tcc:456	speedup=0.00	duration=500275688	selected-samples=5
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69980
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=440069066	selected-samples=240
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69767
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.50	duration=475835858	selected-samples=49
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69537
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=242572479	selected-samples=262
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69584
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500083575	selected-samples=251
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69418
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.05	duration=502562823	selected-samples=32
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69785
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.65	duration=474650996	selected-samples=45
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69584
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=321568833	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69066
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.35	duration=499869818	selected-samples=5
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=24819
+runtime	time=5138864929
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=148
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=121
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2476
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=127
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=193
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=393
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=23
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=10
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=12
+startup	time=1708140045821487968
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500865330	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68465
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.10	duration=500421153	selected-samples=15
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70390
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504353004	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70276
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504740543	selected-samples=284
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70127
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=438584543	selected-samples=251
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69636
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=380512203	selected-samples=243
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=60164
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502529494	selected-samples=220
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=54130
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504260725	selected-samples=263
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70230
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.65	duration=494206184	selected-samples=16
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70174
+experiment	selected=/usr/include/c++/11/bits/stl_vector.h:1046	speedup=0.65	duration=502941939	selected-samples=2
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=47259
+runtime	time=5156856957
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=25
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=9
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=12
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=149
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=16
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=130
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2553
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=7
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=126
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=200
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=365
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=8
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=33
+startup	time=1708140051029030650
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=491045575	selected-samples=254
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69616
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=327503565	selected-samples=253
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70742
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.75	duration=484182197	selected-samples=27
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70481
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.15	duration=498052534	selected-samples=41
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70270
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.90	duration=271388327	selected-samples=259
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69751
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=367179873	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68270
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=228386866	selected-samples=273
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69556
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=424467383	selected-samples=252
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69242
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.55	duration=357459542	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69686
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=440213136	selected-samples=100
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=21976
+runtime	time=5158583709
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=15
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=13
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=10
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=142
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=142
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2524
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=109
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=191
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=392
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=14
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=3
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=13
+startup	time=1708140056241886963
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504206803	selected-samples=273
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69494
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504655176	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70385
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.35	duration=491522640	selected-samples=26
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69997
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=415481066	selected-samples=282
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69489
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.10	duration=475666876	selected-samples=266
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69735
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=380388165	selected-samples=272
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69574
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=358509056	selected-samples=286
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69695
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503043709	selected-samples=252
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68228
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.90	duration=465321772	selected-samples=40
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69662
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=420595614	selected-samples=84
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=23945
+runtime	time=5151482722
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=16
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=13
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:357	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=119
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=127
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2582
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=99
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=172
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=419
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=7
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=9
+startup	time=1708140061448381367
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=254714614	selected-samples=250
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69739
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=368137958	selected-samples=272
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70529
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.85	duration=267301581	selected-samples=279
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70490
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501041957	selected-samples=278
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69687
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=260195108	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69934
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502098074	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69774
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.55	duration=348487678	selected-samples=276
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69620
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500068185	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69353
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500068895	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69527
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=489166937	selected-samples=75
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=18153
+runtime	time=5173486369
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=13
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=139
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=106
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2536
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=127
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=167
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=395
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=7
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=6
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=7
+startup	time=1708140066676148429
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=452967649	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69181
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.65	duration=335560139	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69985
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	speedup=0.15	duration=485460155	selected-samples=98
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69599
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502757920	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69673
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.85	duration=290795033	selected-samples=251
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70141
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503891454	selected-samples=272
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69711
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.65	duration=487609249	selected-samples=25
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69267
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=309499501	selected-samples=243
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69430
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501396698	selected-samples=263
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69734
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=415582130	selected-samples=89
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=22843
+runtime	time=5156740358
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=9
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=108
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=163
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=99
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2419
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=109
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=203
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=408
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=11
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=12
+startup	time=1708140071887291648
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=307510878	selected-samples=276
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69133
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500065928	selected-samples=277
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69884
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.15	duration=462274210	selected-samples=260
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69393
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.00	duration=504505259	selected-samples=41
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70179
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=383828723	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70085
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500559515	selected-samples=246
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69364
+experiment	selected=/usr/include/c++/11/bits/random.tcc:401	speedup=0.40	duration=500942027	selected-samples=7
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70072
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=263162832	selected-samples=252
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69703
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503714157	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69810
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.00	duration=503435660	selected-samples=19
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=21729
+runtime	time=5156603119
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=15
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=13
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=6
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=138
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=116
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2479
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=130
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=178
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=408
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:459	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=4
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=15
+startup	time=1708140077096605025
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=319509572	selected-samples=264
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69288
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=489108635	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70345
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501012654	selected-samples=272
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69876
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=443782492	selected-samples=285
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69727
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.65	duration=481459173	selected-samples=34
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70116
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.05	duration=502593914	selected-samples=41
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70182
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504364128	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70130
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504097299	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67496
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=421396679	selected-samples=275
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69780
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=481326142	selected-samples=89
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=22565
+runtime	time=5162803850
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=13
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=9
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=137
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=125
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2566
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=104
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=157
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=384
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=5
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=14
+startup	time=1708140082313226373
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=236625592	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68840
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=412306636	selected-samples=264
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69732
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=432318189	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69204
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500064484	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68756
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	speedup=0.05	duration=497153788	selected-samples=115
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68977
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500065114	selected-samples=250
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68844
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=487627358	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68606
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=254512654	selected-samples=259
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68895
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=491800735	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69583
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=464831974	selected-samples=125
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=29888
+runtime	time=5141691044
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=9
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=12
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=127
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=3
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=1
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=155
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=133
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2476
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=110
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=190
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=348
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=6
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=12
+startup	time=1708140087508667209
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=450333280	selected-samples=254
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69353
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503316844	selected-samples=281
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70608
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502898932	selected-samples=212
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=56535
+experiment	selected=/usr/include/c++/11/bits/random.tcc:414	speedup=0.00	duration=500696377	selected-samples=36
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66885
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=303439670	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66044
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.10	duration=478751548	selected-samples=219
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=46698
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=408393422	selected-samples=214
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=52501
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500074643	selected-samples=244
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=52521
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503482482	selected-samples=236
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=52785
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=299270023	selected-samples=251
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66620
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501928796	selected-samples=204
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=48907
+runtime	time=5668319073
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=42
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=21
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=37
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=13
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=145
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=10
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=126
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2701
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=18
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=129
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=7
+samples	location=/usr/include/c++/11/bits/random.tcc:404	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=160
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=18
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=400
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=40
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=9
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=3
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=48
+startup	time=1708140093250357408
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=248740435	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67392
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=426366397	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69762
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504682148	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70319
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500150783	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=61766
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.00	duration=503586582	selected-samples=16
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70143
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=442532716	selected-samples=242
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68350
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.10	duration=499976754	selected-samples=36
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70062
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.15	duration=495530268	selected-samples=47
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69701
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.40	duration=398148936	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69721
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.85	duration=391353339	selected-samples=128
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=32424
+runtime	time=5155765126
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=14
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=13
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=2
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=127
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=10
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=137
+samples	location=/usr/include/c++/11/bits/random.h:1870	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2536
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=106
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=226
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=374
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=10
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=15
+startup	time=1708140098462269431
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	speedup=0.10	duration=500840042	selected-samples=0
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67152
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.45	duration=499091887	selected-samples=11
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70593
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=440376325	selected-samples=247
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68000
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	speedup=0.05	duration=504502054	selected-samples=0
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70021
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=487094675	selected-samples=276
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69689
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503826274	selected-samples=264
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69475
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500811265	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69054
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.15	duration=495178971	selected-samples=41
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68618
+experiment	selected=/usr/include/c++/11/bits/random.tcc:401	speedup=0.25	duration=499724777	selected-samples=17
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69809
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=438538557	selected-samples=105
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=25964
+runtime	time=5163430957
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=19
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=14
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=6
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=141
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=8
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=133
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2524
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=123
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=191
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=379
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=7
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=22
+startup	time=1708140103684949171
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=242038947	selected-samples=276
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69191
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504096076	selected-samples=288
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70356
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503011465	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70079
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=300857665	selected-samples=254
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69682
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501349238	selected-samples=278
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69581
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=413058998	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69435
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.00	duration=502607688	selected-samples=43
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69477
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502793312	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69708
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=409987986	selected-samples=264
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67217
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=440856180	selected-samples=90
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=24652
+runtime	time=5165109517
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=19
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=14
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=4
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=114
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=128
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2560
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=127
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=199
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=404
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=6
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=15
+startup	time=1708140108904123571
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502714696	selected-samples=252
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68132
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=489662364	selected-samples=260
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68978
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.00	duration=501747503	selected-samples=11
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69185
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504590014	selected-samples=245
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69217
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.95	duration=272772394	selected-samples=244
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69007
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=427157686	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69154
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.85	duration=296428999	selected-samples=243
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68757
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=338669197	selected-samples=269
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68104
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500868693	selected-samples=273
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68725
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=416917992	selected-samples=111
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=29570
+runtime	time=5162742909
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=16
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=9
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=158
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=141
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2487
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=109
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=15
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=192
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=438
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=11
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=11
+startup	time=1708140114121159364
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=382640793	selected-samples=269
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69180
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501249861	selected-samples=290
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70091
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.65	duration=325620657	selected-samples=270
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69853
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.15	duration=464284461	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69952
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.10	duration=501886999	selected-samples=28
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70103
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.40	duration=493122422	selected-samples=18
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69086
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=419726773	selected-samples=277
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70153
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.40	duration=395834885	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69886
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.55	duration=346955346	selected-samples=286
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70149
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=475241481	selected-samples=94
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=21563
+runtime	time=5156600714
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=14
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=5
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=113
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=6
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=133
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2599
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=99
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=13
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=186
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=370
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=7
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=14
+startup	time=1708140119333458574
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=246733095	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68909
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.15	duration=463277070	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67021
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=443669648	selected-samples=282
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69461
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501322931	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69304
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.40	duration=394068362	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68935
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=338299571	selected-samples=270
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68979
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.25	duration=433131170	selected-samples=279
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69062
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.55	duration=358318464	selected-samples=263
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69813
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=273659362	selected-samples=284
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69397
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=468414987	selected-samples=94
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=29233
+runtime	time=5146287310
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=7
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=120
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=126
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2581
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=121
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=172
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=391
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=16
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=22
+startup	time=1708140124550309976
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=255911169	selected-samples=248
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68177
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=448744673	selected-samples=275
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69249
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=375330158	selected-samples=252
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68147
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503721136	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68694
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.10	duration=475167093	selected-samples=249
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68336
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=503335103	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68850
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=425067139	selected-samples=250
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68466
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501540335	selected-samples=244
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68612
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=406968352	selected-samples=266
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68449
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=476164706	selected-samples=131
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=33418
+runtime	time=5142988453
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=10
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=6
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=154
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=144
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2507
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=139
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=196
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=440
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=11
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=11
+startup	time=1708140129748993472
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=297695192	selected-samples=275
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67734
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504441314	selected-samples=259
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70011
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.00	duration=504196319	selected-samples=27
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70047
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=335246468	selected-samples=278
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69838
+experiment	selected=/usr/include/c++/11/bits/random.tcc:401	speedup=0.70	duration=494622926	selected-samples=11
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69826
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.90	duration=492476741	selected-samples=13
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69916
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.10	duration=476245308	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69660
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=410817496	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69273
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.00	duration=503187885	selected-samples=50
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69414
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501542236	selected-samples=98
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=24166
+runtime	time=5157377825
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=12
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=11
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=2
+samples	location=/usr/include/c++/11/bits/char_traits.h:357	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=126
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=102
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2548
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=117
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=176
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=411
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=13
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=20
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=4
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=10
+startup	time=1708140134962441588
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:62	speedup=0.00	duration=500701207	selected-samples=0
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67403
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=1.00	duration=481627291	selected-samples=23
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69538
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=491562837	selected-samples=262
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69195
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.10	duration=472968051	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67869
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=423003156	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=65689
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.40	duration=392825936	selected-samples=277
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68666
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.00	duration=501307005	selected-samples=41
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68388
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.15	duration=465772426	selected-samples=235
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68614
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.00	duration=500066730	selected-samples=48
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68568
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=458588710	selected-samples=145
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=37518
+runtime	time=5137672635
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=19
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:62	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=8
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=9
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=163
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=149
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2547
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=107
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=190
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=433
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=13
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=12
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=15
+startup	time=1708140140157966040
+experiment	selected=/usr/include/c++/11/bits/random.h:1618	speedup=0.00	duration=503053871	selected-samples=12
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69123
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=414066395	selected-samples=248
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69974
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504255446	selected-samples=263
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70091
+experiment	selected=/usr/include/c++/11/bits/random.tcc:401	speedup=0.00	duration=503926326	selected-samples=16
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69824
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501251106	selected-samples=238
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69553
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.90	duration=478611406	selected-samples=29
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70160
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=1.00	duration=465067581	selected-samples=35
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69390
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=301006071	selected-samples=267
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69466
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504532955	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69859
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.35	duration=495972265	selected-samples=20
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=22703
+runtime	time=5153153742
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=9
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=9
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=6
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=128
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=149
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2481
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=112
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=10
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=239
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=414
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=7
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=9
+startup	time=1708140145364539814
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=286240918	selected-samples=273
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69696
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.55	duration=351016218	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69753
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.85	duration=274573296	selected-samples=266
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69844
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=1.00	duration=243108159	selected-samples=259
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70066
+experiment	selected=/usr/include/c++/11/bits/random.tcc:401	speedup=0.50	duration=496098926	selected-samples=17
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70099
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504428848	selected-samples=281
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69649
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=510483036	selected-samples=236
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=62970
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	speedup=0.20	duration=501890071	selected-samples=8
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=59493
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502521872	selected-samples=240
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68384
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501934007	selected-samples=174
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=41788
+runtime	time=5168000565
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=15
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=17
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=17
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:71	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=15
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=140
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=9
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=122
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2563
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=126
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=7
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=190
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=378
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=7
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=8
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=9
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=22
+startup	time=1708140150595821437
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=379650005	selected-samples=181
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=41971
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.90	duration=288875644	selected-samples=236
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=53762
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501155480	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66480
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=487197988	selected-samples=268
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68309
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.85	duration=288780407	selected-samples=254
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68418
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.80	duration=306345491	selected-samples=248
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69139
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500720451	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67184
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504670788	selected-samples=262
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69187
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=430511415	selected-samples=247
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67335
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500066881	selected-samples=258
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67580
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.10	duration=497182663	selected-samples=41
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=9731
+runtime	time=5677745364
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=19
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=17
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=13
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=1
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=4
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=186
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=6
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=162
+samples	location=/usr/include/c++/11/bits/random.h:1870	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2583
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=123
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=200
+samples	location=/usr/include/c++/11/bits/random.tcc:406	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=14
+samples	location=/usr/include/c++/11/bits/random.tcc:412	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=430
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=7
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=23
+startup	time=1708140156342131474
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.35	duration=492751814	selected-samples=29
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68914
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=489182776	selected-samples=273
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69363
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.70	duration=467462920	selected-samples=48
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69670
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.05	duration=487722308	selected-samples=247
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68916
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500064394	selected-samples=267
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69591
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=501623214	selected-samples=261
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69079
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=376163224	selected-samples=249
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68952
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504496064	selected-samples=282
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69560
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	speedup=0.00	duration=503774697	selected-samples=93
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69690
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.45	duration=499445986	selected-samples=11
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=26082
+runtime	time=5147718031
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=22
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=102
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=136
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=10
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=103
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2476
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=87
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=13
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=190
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=399
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=13
+samples	location=/usr/include/c++/11/bits/random.tcc:459	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=4
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=20
+startup	time=1708140161548492449
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=451676031	selected-samples=242
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68889
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.60	duration=347668493	selected-samples=254
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69850
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=500066743	selected-samples=259
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69723
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502236433	selected-samples=278
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69985
+experiment	selected=/usr/include/c++/11/bits/random.tcc:401	speedup=0.15	duration=501747201	selected-samples=20
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70222
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=316457648	selected-samples=265
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69874
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.45	duration=373017495	selected-samples=284
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69741
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=308763581	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69667
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=449034407	selected-samples=263
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69905
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.15	duration=492686836	selected-samples=81
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=22073
+runtime	time=5146016349
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=20
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=6
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=5
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:71	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=6
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=129
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=6
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=134
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2489
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=136
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=5
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=162
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=367
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=9
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=6
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=9
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=2
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=19
+startup	time=1708140166749639488
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=406601965	selected-samples=280
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69074
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.00	duration=501864328	selected-samples=26
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69989
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=504591345	selected-samples=270
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69267
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.55	duration=474026924	selected-samples=49
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69301
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.65	duration=328557014	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69365
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.20	duration=452766440	selected-samples=256
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68887
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.90	duration=271191809	selected-samples=255
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68333
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.75	duration=304285551	selected-samples=263
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69450
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	speedup=0.00	duration=504341943	selected-samples=117
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69663
+experiment	selected=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	speedup=0.30	duration=481808070	selected-samples=61
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=26636
+runtime	time=5156417458
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=14
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=7
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=10
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:53	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=2
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:69	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=189
+samples	location=/usr/include/c++/11/bits/basic_string.h:195	count=3
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=5
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=136
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=143
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2467
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:339	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=82
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=180
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=387
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:419	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=13
+samples	location=/usr/include/c++/11/bits/random.tcc:459	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=8
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1043	count=1
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=20
+startup	time=1708140171957785632
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.15	duration=458668657	selected-samples=276
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=66858
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.35	duration=409815285	selected-samples=269
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=70185
+experiment	selected=/usr/include/c++/11/bits/random.tcc:405	speedup=0.15	duration=494822120	selected-samples=35
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68810
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.30	duration=421319877	selected-samples=274
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69034
+experiment	selected=/usr/include/c++/11/bits/random.tcc:413	speedup=0.65	duration=473871301	selected-samples=45
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68495
+experiment	selected=/usr/include/c++/11/bits/stl_vector.h:1046	speedup=0.10	duration=502538094	selected-samples=6
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=63324
+experiment	selected=/usr/include/c++/11/bits/random.h:1648	speedup=0.15	duration=502053972	selected-samples=7
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=67902
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.00	duration=502446146	selected-samples=277
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=69951
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.70	duration=312755025	selected-samples=271
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=68832
+experiment	selected=/usr/include/c++/11/bits/random.tcc:330	speedup=0.50	duration=424066112	selected-samples=156
+throughput-point	name=/home/ubuntu/coz/benchmarks/uf/uf.cpp:39	delta=36475
+runtime	time=5164941335
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:30	count=3
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:34	count=20
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:35	count=11
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:36	count=15
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:38	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:48	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:51	count=4
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:57	count=8
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:63	count=1
+samples	location=/home/ubuntu/coz/benchmarks/uf/uf.cpp:72	count=6
+samples	location=/usr/include/c++/11/bits/char_traits.h:437	count=3
+samples	location=/usr/include/c++/11/bits/random.h:1618	count=115
+samples	location=/usr/include/c++/11/bits/random.h:1625	count=7
+samples	location=/usr/include/c++/11/bits/random.h:1648	count=120
+samples	location=/usr/include/c++/11/bits/random.tcc:330	count=2625
+samples	location=/usr/include/c++/11/bits/random.tcc:333	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:401	count=111
+samples	location=/usr/include/c++/11/bits/random.tcc:403	count=11
+samples	location=/usr/include/c++/11/bits/random.tcc:405	count=213
+samples	location=/usr/include/c++/11/bits/random.tcc:409	count=4
+samples	location=/usr/include/c++/11/bits/random.tcc:411	count=1
+samples	location=/usr/include/c++/11/bits/random.tcc:413	count=409
+samples	location=/usr/include/c++/11/bits/random.tcc:414	count=3
+samples	location=/usr/include/c++/11/bits/random.tcc:418	count=12
+samples	location=/usr/include/c++/11/bits/random.tcc:421	count=2
+samples	location=/usr/include/c++/11/bits/random.tcc:456	count=19
+samples	location=/usr/include/c++/11/bits/random.tcc:3366	count=7
+samples	location=/usr/include/c++/11/bits/stl_vector.h:1046	count=21
